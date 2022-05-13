@@ -473,6 +473,7 @@ html.platform-osx .sidebar-1tnWFu .privateChannels-oVe7HL {
 .members-3WRCEx {
     height: auto;
     max-height: 100vh;
+    overflow: hidden;
 }
 
 .layout-1qmrhw {
